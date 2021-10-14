@@ -1,2 +1,2 @@
 # BA-Boost-Assignment-3
- BA-Boost-Assignment-3 Loto App
+ 3.Ödev olan Loto uygulamasıdır  - .NET Core ile yazılmıştır.
